@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "花咲く丘",
+  "base_artist": "穂ノ佳",
+  "createdAt": "2026-02-12T21:28:37.561902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花咲く丘",
+      "artist": "Anzen Chitai (安全地帯)",
+      "has_synced": true,
+      "path": "select/01_花咲く丘_Anzen_Chitai_(安全地帯).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花咲く丘",
+      "artist": "Anzen Chitai",
+      "has_synced": true,
+      "path": "select/02_花咲く丘_Anzen_Chitai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花咲く丘",
+      "artist": "穂ノ佳",
+      "has_synced": false,
+      "path": "select/pl_01_花咲く丘_穂ノ佳.txt"
+    }
+  ]
+}
